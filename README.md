@@ -60,11 +60,14 @@ Email-Case-Study/
 
 ## Investigation Artifacts
 
-- Executive Summary
-- Technical Analysis
-- Indicators of Compromise
-- Conclusion
-- Evidence Screenshots
+| Artifact | Description |
+|-----------|------------|
+| [Technical Analysis](Email-Case-Study/Email-Analysis/Technical-Analysis.md) | Detailed header, URL, and attachment analysis |
+| [Executive Summary](Email-Case-Study/Email-Analysis/Executive-Summary.md) | High-level findings and recommendations |
+| [IOCs](Email-Case-Study/Email-Analysis/IoCs.md) | Indicators of compromise identified during analysis |
+| [Conclusion](Email-Case-Study/Email-Analysis/Conclusion.md) | Final assessment and lessons learned |
+| [Original EML](Email-Case-Study/Raw-phishing-eml/Raw-Phishing-eml.eml) | Original phishing email sample |
+| [Screenshots](Email-Case-Study/Screenshots/) | Screenshots |
 
 ---
 
